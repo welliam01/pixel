@@ -7,7 +7,7 @@ const fs = require("fs");
 
 
 const Canvas = require("canvas"); //npm i canvas
-var prefix = "÷"
+var prefix = "+"
 client.on('ready', () => {
     console.log('I am ready!');
 });
